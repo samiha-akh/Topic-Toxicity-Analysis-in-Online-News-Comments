@@ -1,0 +1,17 @@
+{
+  "merged_6043_comments.csv": {
+    "description": "Complete merged dataset with all 6,043 comments (1,043 expert + 5,000 model annotated)",
+    "location": "..\\data\\processed\\merged_6043_comments.csv",
+    "key_columns": {
+      "comment_text": "Original comment text",
+      "toxicity_level": "Unified toxicity level (1-4 scale, expert preferred)",
+      "toxicity_level_expert": "Expert-annotated toxicity level (1-4)",
+      "toxicity_level_model": "Model-predicted toxicity level (1-4)",
+      "annotation_source": "Source of annotation (expert or model)",
+      "article_id": "Article identifier",
+      "title": "Article title",
+      "article_text": "Full article text"
+    }
+  }
+
+}
