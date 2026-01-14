@@ -1,0 +1,48 @@
+topic,min_toxicity,max_toxicity,amplification,contexts_measured
+"Animals, Food, Meat Ethics & Environment",1.0,4.0,3.0,12
+Toronto Politics (Rob Ford / Mayor Drama),1.0,4.0,3.0,9
+Race & Racism Discourse (White/Black),1.0,3.0,2.0,10
+Energy Tech (Solar/Wind/Nuclear/Power),1.0,3.0,2.0,8
+Fascism/Nazism/Confederate Symbols,1.0,3.0,2.0,10
+"Bullying, Civility & Editorial Disputes",1.0,3.0,2.0,6
+"Gender, Feminism & Relationships",1.0,2.3333333333333335,1.3333333333333335,9
+Insults / Ad Hominem Flame Replies,1.0,2.1818181818181817,1.1818181818181817,4
+"Police, Guns & Crime",1.0,2.0,1.0,10
+"Healthcare System: Doctors, Hospitals & Patients",1.0,2.0,1.0,9
+Israel–Palestine / Middle East Politics,1.0,2.0,1.0,8
+Religion (Islam/Christianity) & Church Issues,1.0,2.0,1.0,11
+Media & Journalism (Globe and Mail Commentary),1.0,2.0,1.0,11
+"Parenting, Class & Family Life",1.0,2.0,1.0,10
+Marijuana/Drugs/Alcohol Legalization Debate,1.0,2.0,1.0,7
+"Vaccines, Vaccination & Disease Risk",1.0,2.0,1.0,5
+US Politics (Trump/Clinton/Obama),1.0,2.0,1.0,7
+Justin Trudeau & Canadian Federal Leadership,1.0,2.0,1.0,4
+Refugees & Immigration System,1.0,2.0,1.0,4
+Russia–Ukraine / NATO / Geopolitics,1.0,2.0,1.0,10
+Harper vs Trudeau Election Talk,1.0,2.0,1.0,8
+Personal Encouragement / Health / Small Talk,1.0,2.0,1.0,8
+"Citizenship, Dual Citizenship & Niqab Ceremony",1.0,2.0,1.0,7
+"Education: Teachers, Schools & Kids",1.0,2.0,1.0,9
+"Canadian Culture, Language & Immigration Identity",1.0,2.0,1.0,10
+"Racism, Law & Policy Framing",1.0,2.0,1.0,7
+Political Ideology Spectrum & Media Bias,1.0,2.0,1.0,6
+Harper-era Conservatism & Government,1.0,1.6666666666666667,0.6666666666666667,4
+Canada Identity / Provinces / General National Talk,1.0,1.625,0.625,13
+Debate About Terms / Argumentation Style,1.0,1.6,0.6000000000000001,11
+General Banter / Agreement Replies,1.0,1.6,0.6000000000000001,13
+Outlier/Unassigned,1.1830065359477124,1.7142857142857142,0.5312791783380018,13
+"Cities, Transit & Urban Development",1.0,1.5,0.5,9
+Climate Change & CO2 Debate,1.0,1.5,0.5,8
+"Voting, Elections, Polls & Referendums",1.0,1.4,0.3999999999999999,8
+"Consumer Prices, Markets & Groceries",1.0,1.4,0.3999999999999999,4
+"War, Terrorism & Security (Syria/ISIS)",1.0,1.380952380952381,0.38095238095238093,9
+Political Scandal & Corruption (Senate/PMO),1.0,1.3333333333333333,0.33333333333333326,10
+"Taxes, Pensions & Public Finances",1.0,1.3333333333333333,0.33333333333333326,10
+Evidence vs Truth Debate (Kingwell Thread),1.0,1.3333333333333333,0.33333333333333326,10
+Praise/Feedback on Posts and Columns,1.0,1.3125,0.3125,11
+Immigration Policy & Legal Process,1.0,1.2,0.19999999999999996,4
+Columnist/Political Culture Commentary (Coyne etc.),1.0,1.1666666666666667,0.16666666666666674,4
+"Oil, Pipelines & Alberta Energy Industry",1.0,1.1428571428571428,0.1428571428571428,4
+Partisan Competence / Messaging (Liberal vs Conservative),1.0,1.1333333333333333,0.1333333333333333,2
+Quoted Conversation / Anecdotes (Name-Heavy Thread),1.0,1.1111111111111112,0.11111111111111116,9
+Canadian Party Politics & Electoral Reform,1.0,1.0909090909090908,0.09090909090909083,4

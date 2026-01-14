@@ -1,0 +1,9 @@
+comment_text,n_occurrences,n_articles,toxicity_mean,toxicity_std,toxicity_min,toxicity_max,toxicity_range
+canada,2,2,1.0,0.0,1.0,1.0,0.0
+excellent post,2,2,1.0,0.0,1.0,1.0,0.0
+good point,2,2,1.0,0.0,1.0,1.0,0.0
+great comment,2,2,1.0,0.0,1.0,1.0,0.0
+hear hear,2,2,1.0,0.0,1.0,1.0,0.0
+think,2,2,1.0,0.0,1.0,1.0,0.0
+true,2,2,1.0,0.0,1.0,1.0,0.0
+well said,8,8,1.0,0.0,1.0,1.0,0.0

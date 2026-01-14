@@ -1,0 +1,14 @@
+article_topic_category,n_comments,n_articles,mean_toxicity
+politics,1986,1009,1.272
+economy,616,338,1.213
+crime_law,436,249,1.283
+education,361,187,1.235
+environment,297,135,1.219
+healthcare,277,152,1.199
+technology,263,165,1.238
+religion,209,119,1.388
+immigration,185,95,1.238
+terrorism_security,173,123,1.324
+social_issues,122,65,1.41
+sports,51,37,1.216
+other,16,14,1.312

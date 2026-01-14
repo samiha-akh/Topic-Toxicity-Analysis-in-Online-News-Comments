@@ -1,0 +1,48 @@
+topic,n_samples,shapiro_statistic,p_value,is_normal
+"Taxes, Pensions & Public Finances",225,0.38597352193440426,5.446635896157074e-27,False
+Outlier/Unassigned,2598,,,False
+Political Scandal & Corruption (Senate/PMO),72,0.5057025476382527,3.4786391446360865e-14,False
+"Healthcare System: Doctors, Hospitals & Patients",66,0.4877773519215777,8.159646337263146e-14,False
+"Voting, Elections, Polls & Referendums",86,0.3515053443505878,1.1112353725091799e-17,False
+Israel–Palestine / Middle East Politics,54,0.6693990025719647,9.356293898071467e-10,False
+Race & Racism Discourse (White/Black),29,0.7942578883945893,6.601039117011663e-05,False
+General Banter / Agreement Replies,163,,,False
+Debate About Terms / Argumentation Style,70,0.5647056975719966,4.3237874945032456e-13,False
+Canadian Party Politics & Electoral Reform,26,0.30065091543093514,4.15376893489357e-10,False
+"Parenting, Class & Family Life",35,0.3750398824357548,4.5487820364847594e-11,False
+Canada Identity / Provinces / General National Talk,72,0.3396337148931555,2.339031575647024e-16,False
+Religion (Islam/Christianity) & Church Issues,99,0.7309297503255798,3.5325409381300725e-12,False
+"Cities, Transit & Urban Development",62,0.37548384609211927,8.681320249000122e-15,False
+Media & Journalism (Globe and Mail Commentary),95,0.526576757353503,5.519083175111277e-16,False
+"Police, Guns & Crime",117,0.4625195973677272,8.139906211489167e-19,False
+Praise/Feedback on Posts and Columns,40,0.28723371874272663,1.0668832127678442e-12,False
+Harper vs Trudeau Election Talk,100,0.5933365881232031,3.2222565656921575e-15,False
+Partisan Competence / Messaging (Liberal vs Conservative),16,0.39845639688772183,3.408159865908172e-07,False
+"Oil, Pipelines & Alberta Energy Industry",63,0.3023783029188476,9.871717466765224e-16,False
+Personal Encouragement / Health / Small Talk,23,0.6654104033741657,5.142821436415603e-06,False
+Harper-era Conservatism & Government,22,0.3104860435201686,3.316517727818675e-09,False
+Climate Change & CO2 Debate,81,0.3635276387508838,5.031813742958969e-17,False
+"Education: Teachers, Schools & Kids",89,0.4319147128263948,6.789851132362789e-17,False
+Marijuana/Drugs/Alcohol Legalization Debate,26,0.48444438121971856,1.7529006155621472e-08,False
+"Canadian Culture, Language & Immigration Identity",28,0.590590493199337,1.1246989126790918e-07,False
+"Citizenship, Dual Citizenship & Niqab Ceremony",23,0.5511597384012656,2.7437338312980873e-07,False
+Energy Tech (Solar/Wind/Nuclear/Power),33,0.44180735208835364,4.384515420992485e-10,False
+"Animals, Food, Meat Ethics & Environment",60,0.5515159366614846,2.911683269140685e-12,False
+"Racism, Law & Policy Framing",20,0.6264505032565981,5.604097524839109e-06,False
+"Gender, Feminism & Relationships",56,0.6769405231858485,8.003709284145755e-10,False
+Toronto Politics (Rob Ford / Mayor Drama),33,0.6956003287019411,5.60385273304787e-07,False
+Russia–Ukraine / NATO / Geopolitics,50,,,False
+Justin Trudeau & Canadian Federal Leadership,29,0.3535052716200312,3.1034406222564925e-10,False
+"War, Terrorism & Security (Syria/ISIS)",49,0.5345544355873392,3.0835699761234225e-11,False
+Immigration Policy & Legal Process,17,0.3852513203101542,1.5863208512893727e-07,False
+"Consumer Prices, Markets & Groceries",17,0.26222317003262396,2.166909651121702e-08,False
+Evidence vs Truth Debate (Kingwell Thread),25,0.2033198719270739,1.2135435514282316e-10,False
+Refugees & Immigration System,26,0.4513306157320617,8.420654032232499e-09,False
+Columnist/Political Culture Commentary (Coyne etc.),18,0.25269175545299705,1.0574719813097603e-08,False
+Political Ideology Spectrum & Media Bias,21,0.6181014482765503,3.07733006234825e-06,False
+Insults / Ad Hominem Flame Replies,15,0.8678575848336019,0.031387652078233866,False
+US Politics (Trump/Clinton/Obama),60,0.7323909971015508,3.94155842803367e-09,False
+Quoted Conversation / Anecdotes (Name-Heavy Thread),20,,,False
+"Bullying, Civility & Editorial Disputes",16,0.6950509138874897,0.00014891552620053576,False
+Fascism/Nazism/Confederate Symbols,32,0.7394998608571146,3.5853302723928936e-06,False
+"Vaccines, Vaccination & Disease Risk",15,0.603427100678753,2.738197758845093e-05,False

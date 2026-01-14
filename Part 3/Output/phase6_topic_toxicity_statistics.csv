@@ -1,0 +1,48 @@
+bertopic_topic_label,mean_toxicity,median_toxicity,std_toxicity,count,min_toxicity,max_toxicity,high_toxicity_rate_pct,pct_toxicity_1.0,pct_toxicity_2.0,pct_toxicity_3.0,pct_toxicity_4.0
+Insults / Ad Hominem Flame Replies,2.067,2.0,0.884,15,1.0,4.0,73.333,26.667,46.667,20.0,6.667
+Race & Racism Discourse (White/Black),1.897,2.0,0.724,29,1.0,4.0,72.414,27.586,58.621,10.345,3.448
+Religion (Islam/Christianity) & Church Issues,1.586,2.0,0.623,99,1.0,4.0,52.525,47.475,47.475,4.04,1.01
+US Politics (Trump/Clinton/Obama),1.567,1.0,0.745,60,1.0,4.0,43.333,56.667,31.667,10.0,1.667
+Fascism/Nazism/Confederate Symbols,1.562,1.5,0.619,32,1.0,3.0,50.0,50.0,43.75,6.25,0.0
+Israel–Palestine / Middle East Politics,1.519,1.0,0.606,54,1.0,4.0,48.148,51.852,46.296,0.0,1.852
+Toronto Politics (Rob Ford / Mayor Drama),1.515,1.0,0.755,33,1.0,4.0,39.394,60.606,30.303,6.061,3.03
+"Gender, Feminism & Relationships",1.446,1.0,0.537,56,1.0,3.0,42.857,57.143,41.071,1.786,0.0
+"Bullying, Civility & Editorial Disputes",1.438,1.0,0.629,16,1.0,3.0,37.5,62.5,31.25,6.25,0.0
+"Racism, Law & Policy Framing",1.4,1.0,0.503,20,1.0,2.0,40.0,60.0,40.0,0.0,0.0
+Personal Encouragement / Health / Small Talk,1.391,1.0,0.583,23,1.0,3.0,34.783,65.217,30.435,4.348,0.0
+Russia–Ukraine / NATO / Geopolitics,1.347,1.0,0.561,49,1.0,3.0,30.0,69.388,26.531,4.082,0.0
+Harper vs Trudeau Election Talk,1.34,1.0,0.607,100,1.0,3.0,27.0,73.0,20.0,7.0,0.0
+Political Ideology Spectrum & Media Bias,1.333,1.0,0.577,21,1.0,3.0,28.571,71.429,23.81,4.762,0.0
+"Vaccines, Vaccination & Disease Risk",1.333,1.0,0.488,15,1.0,2.0,33.333,66.667,33.333,0.0,0.0
+"Canadian Culture, Language & Immigration Identity",1.321,1.0,0.476,28,1.0,2.0,32.143,67.857,32.143,0.0,0.0
+Media & Journalism (Globe and Mail Commentary),1.305,1.0,0.654,95,1.0,4.0,21.053,78.947,12.632,7.368,1.053
+"Animals, Food, Meat Ethics & Environment",1.3,1.0,0.561,60,1.0,4.0,26.667,73.333,25.0,0.0,1.667
+Debate About Terms / Argumentation Style,1.3,1.0,0.574,70,1.0,3.0,24.286,75.714,18.571,5.714,0.0
+Outlier/Unassigned,1.267,1.0,0.543,2596,1.0,4.0,22.248,77.735,18.451,3.236,0.578
+"Citizenship, Dual Citizenship & Niqab Ceremony",1.261,1.0,0.449,23,1.0,2.0,26.087,73.913,26.087,0.0,0.0
+"War, Terrorism & Security (Syria/ISIS)",1.245,1.0,0.434,49,1.0,2.0,24.49,75.51,24.49,0.0,0.0
+Political Scandal & Corruption (Senate/PMO),1.222,1.0,0.481,72,1.0,3.0,19.444,80.556,16.667,2.778,0.0
+Canada Identity / Provinces / General National Talk,1.222,1.0,0.716,72,1.0,4.0,11.111,88.889,5.556,0.0,5.556
+"Police, Guns & Crime",1.214,1.0,0.522,117,1.0,4.0,17.094,82.906,13.675,2.564,0.855
+Energy Tech (Solar/Wind/Nuclear/Power),1.212,1.0,0.545,33,1.0,3.0,15.152,84.848,9.091,6.061,0.0
+"Healthcare System: Doctors, Hospitals & Patients",1.197,1.0,0.437,66,1.0,3.0,18.182,81.818,16.667,1.515,0.0
+Marijuana/Drugs/Alcohol Legalization Debate,1.192,1.0,0.402,26,1.0,2.0,19.231,80.769,19.231,0.0,0.0
+Refugees & Immigration System,1.192,1.0,0.491,26,1.0,3.0,15.385,84.615,11.538,3.846,0.0
+"Education: Teachers, Schools & Kids",1.191,1.0,0.497,89,1.0,4.0,15.73,84.27,13.483,1.124,1.124
+Harper-era Conservatism & Government,1.182,1.0,0.664,22,1.0,4.0,9.091,90.909,4.545,0.0,4.545
+"Parenting, Class & Family Life",1.171,1.0,0.514,35,1.0,3.0,11.429,88.571,5.714,5.714,0.0
+Praise/Feedback on Posts and Columns,1.15,1.0,0.58,40,1.0,4.0,7.5,92.5,2.5,2.5,2.5
+"Taxes, Pensions & Public Finances",1.147,1.0,0.423,225,1.0,4.0,12.444,87.556,10.667,1.333,0.444
+"Cities, Transit & Urban Development",1.129,1.0,0.383,62,1.0,3.0,11.29,88.71,9.677,1.613,0.0
+Partisan Competence / Messaging (Liberal vs Conservative),1.125,1.0,0.342,16,1.0,2.0,12.5,87.5,12.5,0.0,0.0
+"Consumer Prices, Markets & Groceries",1.118,1.0,0.485,17,1.0,3.0,5.882,94.118,0.0,5.882,0.0
+Immigration Policy & Legal Process,1.118,1.0,0.332,17,1.0,2.0,11.765,88.235,11.765,0.0,0.0
+Climate Change & CO2 Debate,1.111,1.0,0.316,81,1.0,2.0,11.111,88.889,11.111,0.0,0.0
+"Voting, Elections, Polls & Referendums",1.105,1.0,0.308,86,1.0,2.0,10.465,89.535,10.465,0.0,0.0
+Justin Trudeau & Canadian Federal Leadership,1.103,1.0,0.31,29,1.0,2.0,10.345,89.655,10.345,0.0,0.0
+"Oil, Pipelines & Alberta Energy Industry",1.095,1.0,0.346,63,1.0,3.0,7.937,92.063,6.349,1.587,0.0
+General Banter / Agreement Replies,1.08,1.0,0.315,162,1.0,3.0,6.748,93.21,5.556,1.235,0.0
+Canadian Party Politics & Electoral Reform,1.077,1.0,0.272,26,1.0,2.0,7.692,92.308,7.692,0.0,0.0
+Columnist/Political Culture Commentary (Coyne etc.),1.056,1.0,0.236,18,1.0,2.0,5.556,94.444,5.556,0.0,0.0
+Quoted Conversation / Anecdotes (Name-Heavy Thread),1.053,1.0,0.229,19,1.0,2.0,5.0,94.737,5.263,0.0,0.0
+Evidence vs Truth Debate (Kingwell Thread),1.04,1.0,0.2,25,1.0,2.0,4.0,96.0,4.0,0.0,0.0
